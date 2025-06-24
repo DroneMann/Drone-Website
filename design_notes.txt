@@ -1,0 +1,64 @@
+# Design Notes for New Perspective Drone Photography Website
+
+## Color Scheme Recommendations
+Based on current drone photography website trends and best practices for aerial photography websites:
+
+### Primary Color Palette:
+- Dark Blue (#1a365d) - Represents sky and professionalism
+- Light Gray (#f5f5f5) - Clean background for showcasing images
+- White (#ffffff) - For text and clean spaces
+- Accent: Teal (#2c7873) - Adds visual interest while complementing aerial imagery
+
+### Secondary/Accent Colors:
+- Soft Earth Tone (#d9c5b2) - Complements landscape photography
+- Dark Gray (#333333) - For text and subtle elements
+
+The color scheme is designed to be neutral enough to let the drone photography stand out while conveying professionalism and a connection to aerial/sky themes.
+
+## Typography Recommendations
+Based on current professional photography website trends:
+
+### Font Combinations:
+- Headings: Montserrat (Bold or Semi-Bold) - Modern, professional, clean lines
+- Body Text: Open Sans - Highly readable across devices, professional
+- Accent Text: Lora (for quotes or testimonials) - Adds a touch of elegance
+
+### Typography Guidelines:
+- Use larger font sizes for headings to create clear hierarchy
+- Maintain high contrast between text and background for readability
+- Limit to 2-3 font families throughout the site for consistency
+- Consider 16px minimum for body text to ensure readability
+
+## Layout Recommendations
+Based on effective photography service website structures:
+
+### Homepage Structure:
+1. Hero Section: Full-width drone image with minimal text overlay and call-to-action
+2. Services Section: Grid layout showcasing different drone photography services
+3. Portfolio/Gallery: Masonry or grid layout highlighting best work
+4. About Section: Brief introduction with photographer image
+5. Testimonials: Client feedback with simple, clean design
+6. Contact Form: Streamlined form with minimal fields
+
+### Key Layout Elements:
+- Use negative space effectively to let images breathe
+- Implement responsive grid layouts for image galleries
+- Consider horizontal scrolling for image showcases on desktop
+- Use sticky navigation for easy access to different sections
+- Implement subtle parallax effects for visual interest
+
+## Additional Design Insights
+- Mobile Optimization: Ensure images load appropriately on mobile devices
+- Image Loading: Implement lazy loading for better performance
+- Visual Hierarchy: Use size and positioning to guide users through content
+- Interactive Elements: Consider subtle hover effects on images to encourage engagement
+- Video Integration: Consider embedding short drone footage clips for added impact
+- Image Captions: Use minimal, elegant captions to provide context for aerial photography
+
+## Technical Considerations
+- Image Optimization: Compress images appropriately without losing quality
+- Loading Speed: Prioritize fast loading times for image-heavy pages
+- Accessibility: Ensure proper alt text for all images
+- Dark Mode Compatibility: Consider how the design translates to dark mode viewing
+
+These recommendations aim to create a professional, visually appealing website that effectively showcases New Perspective Drone Photography's services while following current design trends for photography businesses.
